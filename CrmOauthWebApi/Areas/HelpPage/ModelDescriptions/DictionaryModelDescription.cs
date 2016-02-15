@@ -1,0 +1,6 @@
+namespace CrmOauthWebApi.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
